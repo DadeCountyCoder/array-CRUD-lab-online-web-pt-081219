@@ -22,7 +22,7 @@ end
   array.shift
 end
 
- def retreive_element_from_index(array, index_number)
+ def retreive_element_from_index(array, 2)
   array[index_number]
 end
 
